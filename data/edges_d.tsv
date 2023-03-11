@@ -1,0 +1,8 @@
+start	end
+E13_Mammary Epithelial cells	E14_Mammary Epithelial cells
+E14_Mammary Epithelial cells	E15_Mammary Epithelial Basal-like cells
+E15_Mammary Epithelial Luminal-like cells	E15_Mammary Epithelial Hybrid cells
+E15_Mammary Epithelial Luminal-like cells	P0_Mammary Epithelial Luminal Progenitors cells
+E15_Mammary Epithelial Hybrid cells	E15_Mammary Epithelial Basal-like cells
+E15_Mammary Epithelial Basal-like cells	P0_Mammary Epithelial Basal cells
+P0_Mammary Epithelial Luminal HRhigh cells	P0_Mammary Epithelial Luminal Progenitors cells
